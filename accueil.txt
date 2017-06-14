@@ -1,3 +1,3 @@
 voici le fichier d'accueil!!!!!
-Bug CORRIGé
+Bug CORRIGé qui va pas fonctionner ;)
 Encore une ligne
